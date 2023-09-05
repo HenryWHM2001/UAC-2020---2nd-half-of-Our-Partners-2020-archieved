@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.left{
+    width: 245.75px;
+    height: 185.31px;
+    background-color: white;
+    position: fixed; 
+}
+
+p {
+    display: block;
+    margin: 1rem 0;
+}
+
+.image_margin {
+    margin-left: 50px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
